@@ -1,0 +1,7 @@
+*.class
+*.log
+/out/
+/.idea/
+/.vscode/
+/lib/
+config.properties
