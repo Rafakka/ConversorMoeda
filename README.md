@@ -61,4 +61,4 @@ Inclua isso no `.gitignore` para evitar o commit de dados sensíveis ou arquivos
 
 ## ☕ Autor
 
-Projeto criado por Rafael Kaher com ajuda do ChatGPT.
+Projeto criado por Rafael Kaher.
