@@ -27,6 +27,8 @@ ConversorMoedas/
 │   └── ConfigUtil.java
 ├── lib/
 │   └── gson-2.10.1.jar
+├── historico.json
+├── settings.json
 ├── config.properties
 └── README.md
 ```
