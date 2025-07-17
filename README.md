@@ -22,7 +22,6 @@ Este é um pequeno projeto em Java que consome uma API de câmbio para converter
 ```
 ConversorMoedas/
 ├── src/
-│   ├── Main.java
 │   ├── CurrencyConverter.java
 │   ├── ExchangeRateResponse.java
 │   └── ConfigUtil.java
